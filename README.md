@@ -6,7 +6,7 @@ Bachelors - Computer Science (BCS) & Developmental Psychology (BA) | Certified P
 
 My main tech stack is Python, Java, and C#. Project Management tools are Notion, Trello and Asana.
 
-Query langages include SQL and LookML. My main BI tools are Tableau, LookML and PowerBI.
+Query languages include SQL and LookML. My main BI tools are Tableau, LookML and PowerBI.
 
 For design I use HTML/CSS, React, JS and Canva. Android Studio for app development.
 

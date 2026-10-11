@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=a855f7&center=true&vCenter=true&width=640&lines=Turning%20data%20into%20actionable%20insights;Bringing%20our%20Agentic%20dreams%20to%20life)](https://git.io/typing-svg)
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@diaam) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hinadiam@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@diaam) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:177080336+diajm@users.noreply.github.com)
 
 ![Freelancing  - DM Me!](https://img.shields.io/badge/%F0%9F%9F%A2%20Freelancing%20%20-%20DM%20Me!-a855f7?style=flat-square) ![Building -&gt; AI Agents](https://img.shields.io/badge/Building%20-%3E%20AI%20Agents-6366f1?style=flat-square&logo=github&logoColor=white) ![Toronto](https://img.shields.io/badge/Toronto-333?style=flat-square)
 

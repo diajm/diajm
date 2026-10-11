@@ -12,7 +12,7 @@
 
 ![Freelancing  - DM Me!](https://img.shields.io/badge/%F0%9F%9F%A2%20Freelancing%20%20-%20DM%20Me!-a855f7?style=flat-square) ![Building -&gt; AI Agents](https://img.shields.io/badge/Building%20-%3E%20AI%20Agents-6366f1?style=flat-square&logo=github&logoColor=white) ![Toronto](https://img.shields.io/badge/Toronto-333?style=flat-square)
 
-> Building something interesting? Let's connect: mailto:hinadiam@gmail.com
+> Building something interesting? Let's connect: mailto:177080336+diajm@users.noreply.github.com
 
 ## Snapshot
 

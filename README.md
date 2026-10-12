@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:00e0ff&height=240&section=header&text=Nadia%20M&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=AI%20Engineering&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Nadia M banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:00e0ff&height=240&section=header&text=Dia%20M&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=AI%20Engineering&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Dia M banner"/>
 </div>
 
-## Nadia M
+## Dia M
 
 **AI Engineering**
 
@@ -45,9 +45,9 @@
 
 ## GitHub Signals
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=diajm&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide_border=true" alt="Nadia M stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=diajm&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide_border=true" alt="Dia M stats"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diajm&layout=compact&langs_count=8&theme=aura&hide_border=true" alt="Nadia M top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diajm&layout=compact&langs_count=8&theme=aura&hide_border=true" alt="Dia M top languages"/>
 
 ## Quote
 
@@ -55,6 +55,6 @@
 
 <div align="center">
 
-<sub>[Open ReadmeForge](https://lebedevnet.github.io/ReadmeForge/) · [Get in touch](mailto:hinadiam@gmail.com)</sub>
+<sub>[Open ReadmeForge](https://lebedevnet.github.io/ReadmeForge/) · [Get in touch](mailto:mailto:177080336+diajm@users.noreply.github.com)</sub>
 
 </div>
